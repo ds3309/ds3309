@@ -1,5 +1,5 @@
 ### Hi there 👋
-[![ds3309's GitHub stats](https://github-readme-stats.vercel.app/api?username=ds3309)](https://github.com/ds3309/github-readme-stats)
+[![ds3309's GitHub stats](https://github-readme-stats.vercel.app/api?username=ds3309&show_icons=true&theme=graywhite)](https://github.com/ds3309/github-readme-stats)
 <!--
 **ds3309/ds3309** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
