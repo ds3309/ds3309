@@ -1,7 +1,7 @@
 ### Hi there 👋
 <p align="left">
-  <img alt="Github Stats" height="200px" src="https://github-readme-stats.vercel.app/api?username=ds3309&show_icons=true&theme=swift&count_private=true" />
-  <img alt="Most Used Languages" height="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ds3309&layout=compact&theme=swift" />
+  <img alt="Github Stats" height="170px" src="https://github-readme-stats.vercel.app/api?username=ds3309&show_icons=true&theme=swift&count_private=true" />
+  <img alt="Most Used Languages" height="170px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ds3309&layout=compact&theme=swift" />
 </p>
 
 <!--
