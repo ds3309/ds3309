@@ -1,7 +1,4 @@
 ### Hi there 👋
-[![ds3309's GitHub stats]()](https://github.com/ds3309/github-readme-stats)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ds3309&layout=compact)
-
 <a href="https://github.com/ds3309/github-readme-stats">
   <img align="left" src="https://github-readme-stats.vercel.app/api?username=ds3309&show_icons=true&theme=swift&count_private=true" />
 </a>
