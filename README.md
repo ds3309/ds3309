@@ -1,10 +1,9 @@
 ### Hi there 👋
-<a href="https://github.com/ds3309/github-readme-stats">
-  <img align="left" src="https://github-readme-stats.vercel.app/api?username=ds3309&show_icons=true&theme=swift&count_private=true" />
-</a>
-<a href="https://github.com/ds3309/github-readme-stats">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ds3309&layout=compact&theme=swift" />
-</a>
+<p align="left">
+  <img alt="Github Stats" height="150px" src="https://github-readme-stats.vercel.app/api?username=ds3309&show_icons=true&theme=swift&count_private=true" />
+  <img alt="Most Used Languages" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ds3309&layout=compact&theme=swift" />
+</p>
+
 <!--
 **ds3309/ds3309** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
